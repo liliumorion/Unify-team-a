@@ -2,8 +2,8 @@
 
 ## Project information
 
-- Project name: `“Let’s share.”`
-- Project description: `“Let’s share.” is a website that encourages people who live in the same region to share their daily extra food, clothes, furniture, etc`
+- Project name: `“Unify.”`
+- Project description: `“Unify.” is a website that encourages people who live in the same region to share their daily extra food, clothes, furniture, etc`
 - Technology used: Nextjs, TailwindCSS, i18next, Husky, Prettier, Eslint, Commitlinter (Conventional Commits)
 - Team members: [Riadh Mouamnia](https://github.com/riadhmouamnia), [Farouk Zemmouri](https://github.com/farouk26), [Hadia Djadallah](https://github.com/liliumorion), [Rahem Sorour](https://github.com/rahemSorour), [Bouchra Djalti](https://github.com/Bushra369),
 - Bootcamp: FEW NEA-DZ 2023
